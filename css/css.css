@@ -1,0 +1,16 @@
+{BACKGROUND-COLOR: #e4dbd1}
+A:link {COLOR: #5c5c5c; TEXT-DECORATION: none}
+A:visited {COLOR: #5c5c5c; TEXT-DECORATION: none}
+A:hover {COLOR: #0066cc; TEXT-DECORATION: underline}
+BODY {FONT-SIZE: 11px; SCROLLBAR-ARROW-COLOR: #698cc3; SCROLLBAR-BASE-COLOR: #f8f8f8}
+TABLE {FONT: 11px Tahoma, Verdana; COLOR: #5c5c5c}
+INPUT {FONT: 11px Tahoma, Verdana; COLOR: #5c5c5c; BACKGROUND-COLOR: #f8f8f8}
+SELECT {FONT: 11px Tahoma, Verdana; COLOR: #5c5c5c; BACKGROUND-COLOR: #f8f8f8}
+TEXTAREA {FONT: 11px Tahoma, Verdana; COLOR: #5c5c5c; BACKGROUND-COLOR: #f8f8f8}
+SELECT {FONT: 11px Arial, Tahoma; COLOR: #5c5c5c; BACKGROUND-COLOR: #f8f8f8}
+TEXTAREA {FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #274567; FONT-FAMILY: "Tahoma", "Arial", "Helvetica"; BACKGROUND-COLOR: #ffffff}
+INPUT {FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #274567; FONT-FAMILY: "Tahoma", "Arial", "Helvetica"; BACKGROUND-COLOR: #ffffff}
+SELECT {FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #274567; FONT-FAMILY: "Tahoma", "Arial", "Helvetica"; BACKGROUND-COLOR: #ffffff}
+.name_F {COLOR: #c32080}
+.name_M {COLOR: #1e78bd}
+.formborder {BORDER-RIGHT: #9fbbd5 1px solid; BORDER-TOP: #9fbbd5 1px solid; BORDER-LEFT: #9fbbd5 1px solid; BORDER-BOTTOM: #9fbbd5 1px solid}
